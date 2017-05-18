@@ -6,4 +6,6 @@ Para poder ejecutar el notebook debes haber descomprimido el zip de las imagenes
 
 Investigar para que sirve usar un porcentaje de la varianza en `clf = PCA(0.95) # keep 95% of variance`
 
-Obtuvimos el siguiente codigo [`n_clusters_default = len(set(my_db_default.labels_)) - (1 if -1 in my_db_default.labels_ else 0)`](http://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py) en el link asociado para calcular el numero de clusters usando DBScan
+Obtuvimos el siguiente codigo
+[`n_clusters_default = len(set(my_db_default.labels_)) - (1 if -1 in my_db_default.labels_ else 0)`](http://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py)
+en el link asociado, para calcular el numero de clusters usando DBScan
