@@ -12,4 +12,4 @@ en el link asociado, para calcular el numero de clusters usando DBScan
 
 Para ejecutar la visualizacion debe crearse la carpeta 'img' dentro de la carpeta de la visualizacion y dentro de img deben ponerse las imagenes y ademas crear la carpeta thumbs que debe contener los thumbnails que esta en el SIDING
 
-[Thumbs] (https://drive.google.com/file/d/0Bz43GWNP3VjfcGNaZWYwMXRNUmM/view)
+[Thumbs](https://drive.google.com/file/d/0Bz43GWNP3VjfcGNaZWYwMXRNUmM/view)
