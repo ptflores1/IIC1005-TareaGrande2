@@ -31,3 +31,5 @@ Aqui estan los links donde se pueden descargar las imagenes y thumbs:
 [Imagenes](https://drive.google.com/file/d/0B_EJ65_cvpRjRTJVVUstOFliLWs/view)
 
 [Thumbs](https://drive.google.com/file/d/0Bz43GWNP3VjfcGNaZWYwMXRNUmM/view)
+
+La carpeta `byArtworkid`tambien debe ser agregada con el archivo `dataset.txt`
